@@ -2,7 +2,7 @@
 
 [Сайт](https://akulaflow.ru/) · [GitHub](https://github.com/yanakulov/anet) · [GitVerse](https://gitverse.ru/yanakulov/anet) · [Changelog](CHANGELOG.md)
 
-# Akula Net · aNet 1.0.0
+# Akula Net · aNet 1.2.0
 
 **Единая админка сайта и подключаемых модулей Акулы.**
 
@@ -18,6 +18,10 @@
 | **aFlow** · Поток Акулы | Проекты, доски, задачи и команда внутри aNet. | [GitHub](https://github.com/yanakulov/aflow) · [GitVerse](https://gitverse.ru/yanakulov/aflow) |
 | **aJaws** · Пасть Акулы | Кросспостинг и расписание публикаций для Telegram и VK. | [GitHub](https://github.com/yanakulov/ajaws) · [GitVerse](https://gitverse.ru/yanakulov/ajaws) |
 | **aSense** · Чутьё Акулы | Подробная аналитика, цели и поведение посетителей. | [GitHub](https://github.com/yanakulov/asense) · [GitVerse](https://gitverse.ru/yanakulov/asense) |
+
+## Интерфейс 1.2.0
+
+Обновлена рабочая оболочка и интеграционные скиллы: группы навигации, быстрый поиск, настройки по вкладкам, skeleton/error, мобильный dock и нижняя панель «Ещё». Сессии действуют 30 дней с продлением. Клиентский starter синхронизирован и отдельно проверен. Обновлённый aVision показывает контекст глобального блока, меню операций и мобильные панели.
 
 ## Принципы
 
